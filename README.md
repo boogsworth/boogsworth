@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @boogsworth
-- 👀 I’m interested in Power Bi, Python, and Sql
-- 🌱 I’m currently learning ... Python for data analytics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Power Bi, and Sql, and HTML 
+- 🌱 I’m currently learning ... Python for data analytic
 - 📫 How to reach me ... by email aellison44@outlook.com
 
 <!---
